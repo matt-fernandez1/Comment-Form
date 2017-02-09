@@ -65,3 +65,7 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\CommentForm\bin\Syste
 c:\users\wecancodeit\documents\visual studio 2015\Projects\CommentForm\obj\Debug\CommentForm.csprojResolveAssemblyReference.cache
 c:\users\wecancodeit\documents\visual studio 2015\Projects\CommentForm\obj\Debug\CommentForm.dll
 c:\users\wecancodeit\documents\visual studio 2015\Projects\CommentForm\obj\Debug\CommentForm.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CommentForm\bin\EntityFramework.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CommentForm\bin\EntityFramework.SqlServer.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CommentForm\bin\EntityFramework.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CommentForm\bin\EntityFramework.SqlServer.xml
